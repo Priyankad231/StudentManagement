@@ -8,5 +8,6 @@ class Student
         System.out.println("Student Course: Computer Science");
         System.out.println("Student Year: 2024");
         System.out.println("Student Email: priyanka@example.com");
+        System.out.println("Student Phone: 9876543210");
     }
 }
