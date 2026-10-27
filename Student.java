@@ -10,5 +10,6 @@ class Student
         System.out.println("Student Email: priyanka@example.com");
         System.out.println("Student Phone: 9876543210");
         System.out.println("Father Name: Dinesh");
+        System.out.println("Mother Name: Geeta");
     }
 }
